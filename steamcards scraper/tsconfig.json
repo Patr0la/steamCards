@@ -1,0 +1,10 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "outDir": "bin",
+        "lib": [
+            "es2018"
+        ]
+    }
+}

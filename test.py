@@ -1,6 +1,6 @@
 import json
 
-temp = open("./steamcards scraper/save-3369.json", "r")  #otvara file
+temp = open("./a.json", "r")  #otvara file
 text = temp.read()	#cita iz fajla..
 temp.close()	#zatvara..
 
